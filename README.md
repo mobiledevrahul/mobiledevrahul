@@ -29,14 +29,6 @@ I'm a passionate **Android Developer** from India.
 - Android Studio  
 - VS Code  
 
-## 📊 GitHub Stats  
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobiledevrahul&show_icons=true&theme=radical)  
-
-<!-- Optional: Add GitHub streaks or top languages -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mobiledevrahul&theme=radical)](https://git.io/streak-stats)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobiledevrahul&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-
 ## ⚡ Fun Fact  
 I love exploring **new technologies** and staying up-to-date with the latest trends in **mobile development**! 🚀  
 
