@@ -17,9 +17,7 @@ I'm a passionate **Android Developer** from India.
   <a href="https://www.linkedin.com/in/mobiledevrahul/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p> 
-
-## 🛠️ Tech Stack  
+</p>  
 
 ## 🏆 Languages Known  
 <p align="left">
