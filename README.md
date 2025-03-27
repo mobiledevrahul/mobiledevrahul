@@ -44,14 +44,7 @@ I'm a passionate **Android Developer** from India.
 </p>
 
 ## 📫 Connect with Me  
-<p align="left">
-  <a href="mailto:heyrahul03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/mobiledevrahul/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>  
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mobiledevrahul) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mobiledevrahul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mobiledevrahul) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mobiledevrahul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:heyrahul03@gmail.com)  
 
 ## ⚡ Fun Fact  
 I love exploring **new technologies** and staying up-to-date with the latest trends in **mobile development**! 🚀  
