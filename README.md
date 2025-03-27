@@ -11,10 +11,7 @@ I'm a passionate **Android Developer** from India.
 
 
 ### 📱 Mobile Development  
-<p align="center">
-  <img src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" alt="Android" width="120" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="120" height="50"/>
-</p>
+<p align="left"> <img src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" alt="Android" width="100"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="100"/> </p>
 
 ## 🏆 Languages Known  
 <p align="left">
