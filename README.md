@@ -29,15 +29,15 @@ I'm a passionate **Android Developer** from India.
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="MVVM" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="ViewModel" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="LiveData" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="SOCKETS.IO" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="RSS FEEDS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Retrofit" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="RoomDB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="SQLite" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="FlutterBLOC" />
+  <img src="https://img.shields.io/badge/MVVM-F7DF1E?style=for-the-badge&logo=MVVM&logoColor=black" alt="MVVM" />
+  <img src="https://img.shields.io/badge/ViewModel-F7DF1E?style=for-the-badge&logo=ViewModel&logoColor=black" alt="ViewModel" />
+  <img src="https://img.shields.io/badge/LiveData-F7DF1E?style=for-the-badge&logo=LiveData&logoColor=black" alt="LiveData" />
+  <img src="https://img.shields.io/badge/SOCKETS.IO-F7DF1E?style=for-the-badge&logo=SOCKETS.IO&logoColor=black" alt="SOCKETS.IO" />
+  <img src="https://img.shields.io/badge/RSS FEEDS-F7DF1E?style=for-the-badge&logo=RSS FEEDS&logoColor=black" alt="RSS FEEDS" />
+  <img src="https://img.shields.io/badge/Retrofit-F7DF1E?style=for-the-badge&logo=Retrofit&logoColor=black" alt="Retrofit" />
+  <img src="https://img.shields.io/badge/RoomDB-F7DF1E?style=for-the-badge&logo=RoomDB&logoColor=black" alt="RoomDB" />
+  <img src="https://img.shields.io/badge/SQLite-F7DF1E?style=for-the-badge&logo=SQLite&logoColor=black" alt="SQLite" />
+  <img src="https://img.shields.io/badge/FlutterBLOC-F7DF1E?style=for-the-badge&logo=FlutterBLOC&logoColor=black" alt="FlutterBLOC" />
 </p>
 
 ### 🔧 Tools & Technologies  
