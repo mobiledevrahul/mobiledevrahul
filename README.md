@@ -1,6 +1,5 @@
 ## 💫 About Me:
 
-Here are some ideas to get you started:
 - 🔭 I’m currently working with NSDL Payments Bank
 - 🌱 I develop Android Apps in Native & Flutter.
 - 👯 I am looking to work as a freelance on Android / Flutter Development Projects.
