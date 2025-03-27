@@ -28,9 +28,12 @@ I'm a passionate **Android Developer** from India.
 </p>
 
 ### 🔧 Tools & Technologies  
-- Git & GitHub  
-- Android Studio  
-- VS Code  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p> 
 
 ## ⚡ Fun Fact  
 I love exploring **new technologies** and staying up-to-date with the latest trends in **mobile development**! 🚀  
