@@ -57,6 +57,9 @@ I'm a passionate **Android Developer** from India.
   <a href="https://www.behance.net/mobiledevrahul" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
+  <a href="https://in.pinterest.com/mobiledevrahul" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
+  </a>
 </p>  
 
 ## ⚡ Fun Fact  
