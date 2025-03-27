@@ -30,7 +30,6 @@ I'm a passionate **Android Developer** from India.
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-
   <img src="https://img.shields.io/badge/MVVM-FF9800?style=for-the-badge&logo=MVVM&logoColor=white" alt="MVVM" />
   <img src="https://img.shields.io/badge/ViewModel-2196F3?style=for-the-badge&logo=ViewModel&logoColor=white" alt="ViewModel" />
   <img src="https://img.shields.io/badge/LiveData-4CAF50?style=for-the-badge&logo=LiveData&logoColor=white" alt="LiveData" />
