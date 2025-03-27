@@ -21,9 +21,11 @@ I'm a passionate **Android Developer** from India.
 </p>
 
 ### 🌐 Backend & Database  
-- Firebase  
-- Node.js  
-- MongoDB  
+<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
 
 ### 🔧 Tools & Technologies  
 - Git & GitHub  
