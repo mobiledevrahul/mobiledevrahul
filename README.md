@@ -29,17 +29,18 @@ I'm a passionate **Android Developer** from India.
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
-  <img src="https://img.shields.io/badge/MVVM-F7DF1E?style=for-the-badge&logo=MVVM&logoColor=black" alt="MVVM" />
-  <img src="https://img.shields.io/badge/ViewModel-F7DF1E?style=for-the-badge&logo=ViewModel&logoColor=black" alt="ViewModel" />
-  <img src="https://img.shields.io/badge/LiveData-F7DF1E?style=for-the-badge&logo=LiveData&logoColor=black" alt="LiveData" />
-  <img src="https://img.shields.io/badge/SOCKETS.IO-F7DF1E?style=for-the-badge&logo=SOCKETS.IO&logoColor=black" alt="SOCKETS.IO" />
-  <img src="https://img.shields.io/badge/RSS FEEDS-F7DF1E?style=for-the-badge&logo=RSSFEED&logoColor=black" alt="RSS FEEDS" />
-  <img src="https://img.shields.io/badge/Retrofit-F7DF1E?style=for-the-badge&logo=Retrofit&logoColor=black" alt="Retrofit" />
-  <img src="https://img.shields.io/badge/RoomDB-F7DF1E?style=for-the-badge&logo=RoomDB&logoColor=black" alt="RoomDB" />
-  <img src="https://img.shields.io/badge/SQLite-F7DF1E?style=for-the-badge&logo=SQLite&logoColor=black" alt="SQLite" />
-  <img src="https://img.shields.io/badge/FlutterBLOC-F7DF1E?style=for-the-badge&logo=FlutterBLOC&logoColor=black" alt="FlutterBLOC" />
-  <img src="https://img.shields.io/badge/DIO-F7DF1E?style=for-the-badge&logo=DIO&logoColor=black" alt="DIO" />
-  <img src="https://img.shields.io/badge/SDK Integration-F7DF1E?style=for-the-badge&logo=SDK&logoColor=black" alt="SDK Integration" />
+  <img src="https://img.shields.io/badge/MVVM-FF9800?style=for-the-badge&logo=MVVM&logoColor=white" alt="MVVM" />
+<img src="https://img.shields.io/badge/ViewModel-2196F3?style=for-the-badge&logo=ViewModel&logoColor=white" alt="ViewModel" />
+<img src="https://img.shields.io/badge/LiveData-4CAF50?style=for-the-badge&logo=LiveData&logoColor=white" alt="LiveData" />
+<img src="https://img.shields.io/badge/SOCKETS.IO-673AB7?style=for-the-badge&logo=SOCKETS.IO&logoColor=white" alt="SOCKETS.IO" />
+<img src="https://img.shields.io/badge/RSS FEEDS-F44336?style=for-the-badge&logo=RSSFEED&logoColor=white" alt="RSS FEEDS" />
+<img src="https://img.shields.io/badge/Retrofit-795548?style=for-the-badge&logo=Retrofit&logoColor=white" alt="Retrofit" />
+<img src="https://img.shields.io/badge/RoomDB-9C27B0?style=for-the-badge&logo=RoomDB&logoColor=white" alt="RoomDB" />
+<img src="https://img.shields.io/badge/SQLite-03A9F4?style=for-the-badge&logo=SQLite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/FlutterBLOC-009688?style=for-the-badge&logo=FlutterBLOC&logoColor=white" alt="FlutterBLOC" />
+<img src="https://img.shields.io/badge/DIO-FF5722?style=for-the-badge&logo=DIO&logoColor=white" alt="DIO" />
+<img src="https://img.shields.io/badge/SDK Integration-607D8B?style=for-the-badge&logo=SDK&logoColor=white" alt="SDK Integration" />
+
 </p>
 
 ### 🔧 Tools & Technologies  
