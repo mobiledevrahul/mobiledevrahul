@@ -30,6 +30,7 @@ I'm a passionate **Android Developer** from India.
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <br>
   <img src="https://img.shields.io/badge/MVVM-FF9800?style=for-the-badge&logo=MVVM&logoColor=white" alt="MVVM" />
   <img src="https://img.shields.io/badge/ViewModel-2196F3?style=for-the-badge&logo=ViewModel&logoColor=white" alt="ViewModel" />
   <img src="https://img.shields.io/badge/LiveData-4CAF50?style=for-the-badge&logo=LiveData&logoColor=white" alt="LiveData" />
@@ -38,9 +39,11 @@ I'm a passionate **Android Developer** from India.
   <img src="https://img.shields.io/badge/Retrofit-795548?style=for-the-badge&logo=Retrofit&logoColor=white" alt="Retrofit" />
   <img src="https://img.shields.io/badge/RoomDB-9C27B0?style=for-the-badge&logo=RoomDB&logoColor=white" alt="RoomDB" />
   <img src="https://img.shields.io/badge/SQLite-03A9F4?style=for-the-badge&logo=SQLite&logoColor=white" alt="SQLite" />
+  <br>
   <img src="https://img.shields.io/badge/FlutterBLOC-009688?style=for-the-badge&logo=FlutterBLOC&logoColor=white" alt="FlutterBLOC" />
   <img src="https://img.shields.io/badge/DIO-FF5722?style=for-the-badge&logo=DIO&logoColor=white" alt="DIO" />
   <img src="https://img.shields.io/badge/SDK Integration-607D8B?style=for-the-badge&logo=SDK&logoColor=white" alt="SDK Integration" />
+  <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
